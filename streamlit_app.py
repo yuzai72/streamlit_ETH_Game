@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*-
-"""Streamlit app: AI vs Human 交易遊戲 (ETH-USD)
 - 加入自動播放（每 5 秒前進一根 K 線）的功能（checkbox 控制）
 """
 import streamlit as st
